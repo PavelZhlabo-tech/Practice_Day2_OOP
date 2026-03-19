@@ -1,0 +1,14 @@
+D:\C# практика\Task1_RectangleGeometry\Practice2_Task4\bin\Debug\net8.0\Task4_FunctionValueCalculator.exe
+D:\C# практика\Task1_RectangleGeometry\Practice2_Task4\bin\Debug\net8.0\Task4_FunctionValueCalculator.deps.json
+D:\C# практика\Task1_RectangleGeometry\Practice2_Task4\bin\Debug\net8.0\Task4_FunctionValueCalculator.runtimeconfig.json
+D:\C# практика\Task1_RectangleGeometry\Practice2_Task4\bin\Debug\net8.0\Task4_FunctionValueCalculator.dll
+D:\C# практика\Task1_RectangleGeometry\Practice2_Task4\bin\Debug\net8.0\Task4_FunctionValueCalculator.pdb
+D:\C# практика\Task1_RectangleGeometry\Practice2_Task4\obj\Debug\net8.0\Task4_FunctionValueCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# практика\Task1_RectangleGeometry\Practice2_Task4\obj\Debug\net8.0\Task4_FunctionValueCalculator.AssemblyInfoInputs.cache
+D:\C# практика\Task1_RectangleGeometry\Practice2_Task4\obj\Debug\net8.0\Task4_FunctionValueCalculator.AssemblyInfo.cs
+D:\C# практика\Task1_RectangleGeometry\Practice2_Task4\obj\Debug\net8.0\Task4_FunctionValueCalculator.csproj.CoreCompileInputs.cache
+D:\C# практика\Task1_RectangleGeometry\Practice2_Task4\obj\Debug\net8.0\Task4_FunctionValueCalculator.dll
+D:\C# практика\Task1_RectangleGeometry\Practice2_Task4\obj\Debug\net8.0\refint\Task4_FunctionValueCalculator.dll
+D:\C# практика\Task1_RectangleGeometry\Practice2_Task4\obj\Debug\net8.0\Task4_FunctionValueCalculator.pdb
+D:\C# практика\Task1_RectangleGeometry\Practice2_Task4\obj\Debug\net8.0\Task4_FunctionValueCalculator.genruntimeconfig.cache
+D:\C# практика\Task1_RectangleGeometry\Practice2_Task4\obj\Debug\net8.0\ref\Task4_FunctionValueCalculator.dll

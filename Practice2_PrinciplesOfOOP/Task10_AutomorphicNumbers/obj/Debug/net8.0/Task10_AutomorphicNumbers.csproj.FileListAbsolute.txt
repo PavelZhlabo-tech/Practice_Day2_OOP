@@ -1,0 +1,14 @@
+D:\C# практика\Task1_RectangleGeometry\Task10_AutomorphicNumbers\bin\Debug\net8.0\Task10_AutomorphicNumbers.exe
+D:\C# практика\Task1_RectangleGeometry\Task10_AutomorphicNumbers\bin\Debug\net8.0\Task10_AutomorphicNumbers.deps.json
+D:\C# практика\Task1_RectangleGeometry\Task10_AutomorphicNumbers\bin\Debug\net8.0\Task10_AutomorphicNumbers.runtimeconfig.json
+D:\C# практика\Task1_RectangleGeometry\Task10_AutomorphicNumbers\bin\Debug\net8.0\Task10_AutomorphicNumbers.dll
+D:\C# практика\Task1_RectangleGeometry\Task10_AutomorphicNumbers\bin\Debug\net8.0\Task10_AutomorphicNumbers.pdb
+D:\C# практика\Task1_RectangleGeometry\Task10_AutomorphicNumbers\obj\Debug\net8.0\Task10_AutomorphicNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# практика\Task1_RectangleGeometry\Task10_AutomorphicNumbers\obj\Debug\net8.0\Task10_AutomorphicNumbers.AssemblyInfoInputs.cache
+D:\C# практика\Task1_RectangleGeometry\Task10_AutomorphicNumbers\obj\Debug\net8.0\Task10_AutomorphicNumbers.AssemblyInfo.cs
+D:\C# практика\Task1_RectangleGeometry\Task10_AutomorphicNumbers\obj\Debug\net8.0\Task10_AutomorphicNumbers.csproj.CoreCompileInputs.cache
+D:\C# практика\Task1_RectangleGeometry\Task10_AutomorphicNumbers\obj\Debug\net8.0\Task10_AutomorphicNumbers.dll
+D:\C# практика\Task1_RectangleGeometry\Task10_AutomorphicNumbers\obj\Debug\net8.0\refint\Task10_AutomorphicNumbers.dll
+D:\C# практика\Task1_RectangleGeometry\Task10_AutomorphicNumbers\obj\Debug\net8.0\Task10_AutomorphicNumbers.pdb
+D:\C# практика\Task1_RectangleGeometry\Task10_AutomorphicNumbers\obj\Debug\net8.0\Task10_AutomorphicNumbers.genruntimeconfig.cache
+D:\C# практика\Task1_RectangleGeometry\Task10_AutomorphicNumbers\obj\Debug\net8.0\ref\Task10_AutomorphicNumbers.dll
